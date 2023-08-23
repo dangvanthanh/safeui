@@ -1,18 +1,15 @@
-# Petal
+# SafeUI
 
-To start your Phoenix server:
+> HEEX components using TailwindCSS and Alpine.js
 
-  * Install dependencies with `mix deps.get`
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+## Technologies
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+- [Phoenix](https://www.phoenixframework.org/)
+- [Elixir](https://elixir-lang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Alpine.js](https://alpinejs.dev/)
+- [HEEx](https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html)
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+## License
 
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+MIT © [Dang Van Thanh](https://dangthanh.org)
